@@ -1,2 +1,7 @@
-project: true
-
+project:
+  review_criteria:
+    - make turkey
+    - eat turkey
+    - talk to people
+    - eat more
+    - pass out
